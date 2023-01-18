@@ -1,0 +1,1 @@
+The typedef is a keyword that is used in C programming to provide existing data types with a new name typedef is used with user-defined datatypes, which behave similarly to defining an alias for commands
